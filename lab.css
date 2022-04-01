@@ -1,0 +1,14 @@
+frameset{
+    margin-top: -180px!important;
+    height: 120%;
+}
+
+html{
+    margin-left:-50px;
+    height: 800px!important;
+}
+
+#docs-chrome {
+    zoom: 1;
+    display: none!important;
+}
